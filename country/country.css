@@ -162,7 +162,7 @@
     }
     /* Load more button */
     .load-more-btn {
-      display: none;
+      display: block;
       margin: 20px auto;
       padding: 10px 20px;
       background-color: #ff680e;
